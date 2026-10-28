@@ -1,0 +1,11 @@
+{
+    "name": "Waqas",
+    "age": 25,
+    "department": "AI Engineering",
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning"
+    ],
+    "salary": 100000
+}

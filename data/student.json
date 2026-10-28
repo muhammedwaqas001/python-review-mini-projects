@@ -1,0 +1,15 @@
+{
+    "name": "Waqas",
+    "age": 25,
+    "course": "AI Engineering",
+    "skills": [
+        "Python",
+        "NumPy",
+        "Pandas"
+    ],
+    "scores": {
+        "Python": 90,
+        "Math": 85,
+        "ML": 88
+    }
+}

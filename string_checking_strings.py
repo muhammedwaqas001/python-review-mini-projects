@@ -1,0 +1,6 @@
+name = input("Enter The Name: ")
+age = input("Enter the age: ")
+username = input("Enter username: ")
+print(name.isalpha())
+print(age.isdigit())
+print(username.isalnum())

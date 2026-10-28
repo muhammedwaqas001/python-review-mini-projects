@@ -1,0 +1,20 @@
+# List
+[x for x in iterable]
+
+# List + condition
+[x for x in iterable if condition]
+
+# List + if/else
+[A if condition else B for x in iterable]
+
+# Nested
+[x for row in matrix for x in row]
+
+# Set
+{x for x in iterable}
+
+# Dictionary
+{key: value for x in iterable}
+
+# Dictionary + condition
+{key: value for x in iterable if condition}

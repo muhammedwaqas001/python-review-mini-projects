@@ -1,0 +1,5 @@
+Name: Waqas
+Course: AI Engineering
+Goal: AI Engineer
+Skill: Python
+Skill: NumPy

@@ -1,0 +1,5 @@
+subjects = ("Python", "Math", "Python", "English", "Python", "Math")
+print(subjects.count("Python"))
+print(subjects.count("Math"))
+print(subjects.index("Python"))
+print(subjects.index("English"))
