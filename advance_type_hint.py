@@ -13,5 +13,3 @@ model_identifier: int | str = "GPT"
 
 print(model_identifier)
 
-
-print("I am doing the changes so that i can see it on my git hub profile.")
