@@ -1,5 +1,5 @@
-def get_user():
-    return "User API is working"
+def get_user(name):
+    return f"User {name} API is working"
 
 
-print(get_user())
+print(get_user("Waqas"))
